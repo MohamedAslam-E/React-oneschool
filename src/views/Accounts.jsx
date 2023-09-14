@@ -59,7 +59,7 @@ function Account() {
               </Modal.Footer>
             </Modal>
           </div>
-          <Table striped bordered hover className="mt-3">
+          <Table striped bordered hover className="mt-3" responsive>
             <thead>
               <tr>
                 <th>#</th>

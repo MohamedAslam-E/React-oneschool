@@ -1,6 +1,6 @@
 import { createBrowserRouter } from "react-router-dom";
 import Dashboard from "./views/Dashboard";
-import Students from "./views/Students";
+import Students from "./views/students/Students";
 import Staff from "./views/Staff";
 import Library from "./views/Library";
 import Accounts from "./views/Accounts";

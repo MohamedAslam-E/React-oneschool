@@ -12,7 +12,7 @@ const AppNavbar = () => (
           width="30"
           height="30"
           className="d-inline-block align-top"
-        />{" "}
+        />
         One School
       </Navbar.Brand>
       <Navbar.Toggle aria-controls="navbar-dark" />
